@@ -1,0 +1,6 @@
+[mysqld]
+character-set-server=utf8mb4
+collation-server=utf8mb4_general_ci
+log-bin=/var/lib/mysql/bin-log
+server-id=2
+read_only=1
