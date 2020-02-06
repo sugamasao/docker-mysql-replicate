@@ -1,0 +1,2 @@
+# docker-mysql-replicate
+DockerのMySQLを使ってかんたんにレプリケーション環境を作ります
